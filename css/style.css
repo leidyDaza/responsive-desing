@@ -29,9 +29,14 @@ h1{
     background: grey;
 }
 .project-imageContainer{
-width: 500px;
-background: yellow;
+    width: 500px;
+    background: yellow;
 }
 .header{
-    background-color:rgb(224, 125, 224) ;
+    background-color:#000000;
+    color: white;
 }
+.header a{
+    color: white;
+    text-decoration: none;
+}       
