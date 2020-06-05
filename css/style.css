@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(23, 159, 238);
+    font-family:'Source Sans Pro', sans-serif;
+}
+header{
+    background-color: rgb(108, 108, 190);
+}
+section{
+    background-color: rgb(224, 125, 224);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+}
+h1{
+    font-size: 40px;
+    line-height: 1.5em;
+    letter-spacing: -.2px;/*Sepracion enrtre letras*/
+    /*text-transform: capitalize;
+    text-decoration: overline*/
+}
+.project-details{
+    width: 500px;
+    background: grey;
+}
+.project-imageContainer{
+width: 500px;
+background: yellow;
+}
+.header{
+    background-color:rgb(224, 125, 224) ;
+}
