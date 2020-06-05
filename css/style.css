@@ -22,6 +22,13 @@ h1{
     line-height: 1.5em;
     letter-spacing: -.2px;/*Sepracion enrtre letras*/
     /*text-transform: capitalize;
-    text-decoration: overline*/;
-
+    text-decoration: overline*/
+}
+.project-details{
+    width: 500px;
+    background: grey;
+}
+.project-imageContainer{
+width: 500px;
+background: yellow;
 }
