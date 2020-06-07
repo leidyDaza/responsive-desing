@@ -100,3 +100,17 @@ h1 strong{
     padding: 0 10px;
 
 }
+.footer{
+    color: white;
+    background-color: #1b2127 ;
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer img{
+    vertical-align: middle;
+}
+.footer a{
+    color: white;
+}
