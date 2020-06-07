@@ -266,3 +266,21 @@ h2{
     height: inherit;
     flex-wrap:inherit ;
 }
+
+/*desktop firs empzamos desde el MQmas grande*/
+@media screen and(max-width:1024px){
+
+} 
+
+@media screen and (max-width:768px){
+    /* body{
+        border:10px solid blue
+    } */
+}
+@media screen and(max-width:480px){
+
+}
+
+@media screen and(max-width:320px){
+
+}
