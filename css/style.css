@@ -53,7 +53,7 @@ h2{
 }
 .hero{
     height: 300px;
-    background-image: url('../Imagen/Img3.jpg');
+    background-image: url('../Imagen/Img1.jpg');
     background-size: 400px 300px;
     background-repeat: no-repeat;
     background-position-x:right;
@@ -150,4 +150,45 @@ h2{
 .footer a{
     color: white;
 }
+/*Eventod*/
+.event-list{
+    display: flex;
+}
+.event-list-title{
+    margin-left: 20px;
+}
+.event{
+    /*border: 1px solid red;*/
+    margin: 10px;
+    width:480px ;
+    flex-shrink: 0;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #f4fbff;
+}
+.event img{
+    width: 480px;
+    height: 200px;
+    object-fit: cover;
+}
+.event-detail{
+    margin: 20px 40px;
+    margin-top: -40px;
+    background-color: white;   
+    position: relative;/*Colocamos el elemento enciam de la imegen*/
+    padding: 20px;
+    text-align: center;
+
+}
+.event-description{
+    text-align: left;    
+}
+.event-url{
+    border: 1px solid#026fff;
+    padding: 5px 20px;
+    text-decoration: none;
+    color:#026fff;
+    border-radius: 5px;
+}
+
 
